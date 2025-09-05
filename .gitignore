@@ -1,2 +1,9 @@
 target/
 build/
+
+# Large binary files
+MoproAndroidBindings/
+MoproiOSBindings/
+flutter/mopro_flutter_plugin/android/src/main/kotlin/uniffi/
+flutter/mopro_flutter_plugin/ios/Classes/mopro.swift
+flutter/mopro_flutter_plugin/ios/MoproBindings.xcframework/
